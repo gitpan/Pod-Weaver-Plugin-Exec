@@ -1,0 +1,32 @@
+NAME
+    Pod::Weaver::Plugin::Exec - include output of commands in your pod
+
+VERSION
+    version 0.001000
+
+SYNOPSIS
+    In your weaver.ini:
+
+     [@Default]
+     [-Exec]
+
+    In the pod of one of your modules:
+
+     =head1 EXAMPLE OUTPUT
+
+     =for exec
+     perl maint/script.pl
+
+DESCRIPTION
+    This is a Pod::Weaver plugin that will take the output of a command and
+    insert it as literal data into the pod.
+
+AUTHOR
+    Arthur Axel "fREW" Schmidt <frioux+cpan@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2014 by Arthur Axel "fREW" Schmidt.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
