@@ -2,7 +2,7 @@ NAME
     Pod::Weaver::Plugin::Exec - include output of commands in your pod
 
 VERSION
-    version 0.001000
+    version 0.001001
 
 SYNOPSIS
     In your weaver.ini:

@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/frioux/Pod-Weaver-Plugin-Exec/issues
   homepage: https://github.com/frioux/Pod-Weaver-Plugin-Exec
   repository: https://github.com/frioux/Pod-Weaver-Plugin-Exec.git
-version: '0.001000'
+version: '0.001001'

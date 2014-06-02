@@ -32,7 +32,7 @@ my %WriteMakefileArgs = (
     "Pod::Elemental::Transformer::Pod5" => 0,
     "Test::More" => "0.88"
   },
-  "VERSION" => "0.001000",
+  "VERSION" => "0.001001",
   "test" => {
     "TESTS" => "t/*.t"
   }
